@@ -1,5 +1,20 @@
 {
   "name": "budgetry-app",
-  "version": "1.0.0"
-  
+  "version": "1.0.0",
+  "devDependencies": {
+    "autoprefixer": "^7.0.1",
+    "browser-sync": "^2.18.8",
+    "css-loader": "^0.28.1",
+    "extract-text-webpack-plugin": "^2.0.0-beta.4",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-watch": "^4.3.11",
+    "postcss": "^6.0.1",
+    "postcss-import": "^9.1.0",
+    "style-loader": "^0.17.0",
+    "webpack": "^2.5.1"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
 }
